@@ -18,3 +18,9 @@ Inoltre, al fine di poter garantire agli utenti un’esperienza di gioco
 completa, il sistema garantisce l’efficienza di un modulo di Intelligenza
 Artificiale con l’obiettivo di rendere UNISACheckers sempre fruibile agli
 utenti.
+
+Per eseguire l'applicazione è necessario aprire il progetto con l'IDE
+IntelliJ, dopo aver installato Tomcat e MySql.
+
+Il modulo di FIA consiste nei package "ai" e "Checkers" e può essere analizzato 
+nella seguente diectory: src/main/java...
